@@ -1,12 +1,6 @@
-DeepSeek
-梁文锋
-
 机器人
 灵巧手
 抓取
-
-大疆
-DJI
 
 宇树
 王兴兴
@@ -16,26 +10,25 @@ DJI
 稚晖君
 彭志辉
 
-京东
-刘强东
+大疆
+DJI
 
-字节
-bytedance
-张一鸣
+英伟达
+NVIDIA
+黄仁勋
+AMD
 
 特斯拉
 马斯克
 Elon Musk
 埃隆·马斯克
 
-微软
-Microsoft
+字节
+bytedance
+张一鸣
 
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
+京东
+刘强东
 
 谷歌
 google
@@ -49,18 +42,25 @@ sora
 claude
 Anthropic
 
+人工智能
 ai
 agi
 !gai
-人工智能
+
+LLM
+大模型
+DeepSeek
+梁文锋
+
+微软
+Microsoft
 
 自动驾驶
-
-国产
-中国
-
-美国
-日本
+蔚来
+理想
+小鹏
+李想
+余凯
 
 科技
 教育
@@ -69,3 +69,4 @@ NBA
 LeBron James
 勒布朗·詹姆斯
 詹姆斯
+湖人
