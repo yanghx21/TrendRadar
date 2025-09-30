@@ -67,8 +67,16 @@ weight:
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 platforms:
+  - id: "github"
+    name: "Github"
+  - id: "shaoshupai"
+    name: "少数派"
+  - id: "xitujuejin"
+    name: "稀土掘金"
   - id: "toutiao"
     name: "今日头条"
+  - id: "hackernews"
+    name: "Hacker News"
   - id: "baidu"
     name: "百度热搜"
   - id: "hupu"
